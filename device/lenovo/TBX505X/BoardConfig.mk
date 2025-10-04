@@ -12,3 +12,4 @@ TARGET_RECOVERY_FSTAB := device/lenovo/TBX505X/recovery/root/fstab.TBX505X
 
 # Kernel (tum later add karoge prebuilt/ me)
 TARGET_PREBUILT_KERNEL := device/lenovo/TBX505X/prebuilt/Image.gz
+
